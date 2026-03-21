@@ -1,0 +1,21 @@
+<svg width="1600" height="1131" viewBox="0 0 1600 1131" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1131" fill="#f6efe2"/>
+  <rect x="38" y="38" width="1524" height="1055" rx="28" stroke="#1f4d3a" stroke-width="4"/>
+  <rect x="58" y="58" width="1484" height="1015" rx="20" stroke="#c59745" stroke-width="2"/>
+  <circle cx="800" cy="184" r="74" fill="#1f4d3a" opacity="0.08"/>
+  <path d="M800 132L815.1 162.6L848.9 167.5L824.4 191.4L830.2 225.1L800 209.2L769.8 225.1L775.6 191.4L751.1 167.5L784.9 162.6L800 132Z" fill="#c59745"/>
+  <text x="800" y="292" text-anchor="middle" fill="#1f4d3a" font-family="Georgia, serif" font-size="44">Sample Certificate</text>
+  <text x="800" y="356" text-anchor="middle" fill="#9a6a1e" font-family="Georgia, serif" font-size="96" font-weight="700">UNOFFICIAL</text>
+  <text x="800" y="430" text-anchor="middle" fill="#5a4a35" font-family="Arial, sans-serif" font-size="28">This design is a personal portfolio mockup and not an official credential.</text>
+  <text x="800" y="515" text-anchor="middle" fill="#5a4a35" font-family="Arial, sans-serif" font-size="24">Presented to</text>
+  <text x="800" y="602" text-anchor="middle" fill="#1f4d3a" font-family="Georgia, serif" font-size="72" font-weight="700">Siddhank</text>
+  <text x="800" y="680" text-anchor="middle" fill="#5a4a35" font-family="Arial, sans-serif" font-size="28">for completing the learning track</text>
+  <text x="800" y="756" text-anchor="middle" fill="#1f4d3a" font-family="Georgia, serif" font-size="52" font-weight="700">Master Generative AI &amp; Generative AI Tools</text>
+  <text x="800" y="804" text-anchor="middle" fill="#1f4d3a" font-family="Georgia, serif" font-size="40" font-weight="700">(ChatGPT &amp; More)</text>
+  <line x1="250" y1="930" x2="590" y2="930" stroke="#1f4d3a" stroke-width="2"/>
+  <line x1="1010" y1="930" x2="1350" y2="930" stroke="#1f4d3a" stroke-width="2"/>
+  <text x="420" y="965" text-anchor="middle" fill="#5a4a35" font-family="Arial, sans-serif" font-size="24">Portfolio Sample Issue Date</text>
+  <text x="1180" y="965" text-anchor="middle" fill="#5a4a35" font-family="Arial, sans-serif" font-size="24">Signature Placeholder</text>
+  <text x="420" y="1010" text-anchor="middle" fill="#1f4d3a" font-family="Georgia, serif" font-size="30">March 16, 2026</text>
+  <text x="1180" y="1010" text-anchor="middle" fill="#1f4d3a" font-family="Georgia, serif" font-size="30">Demo Only</text>
+</svg>
