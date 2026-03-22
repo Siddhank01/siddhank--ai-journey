@@ -33,7 +33,6 @@ const categories = [
     icon: Users,
     skills: [
       { name: "Problem Solving", level: 95 },
-      { name: "Leadership", level: 85 },
       { name: "Communication", level: 90 },
       { name: "Adaptability", level: 90 },
     ],
